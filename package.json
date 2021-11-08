@@ -1,0 +1,14 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Eshwary Mishra",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.3"
+  }
+}
